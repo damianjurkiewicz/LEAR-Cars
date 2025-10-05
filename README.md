@@ -3,7 +3,7 @@
 📦 **Modification for GTA San Andreas**, aimed at **fixing original vehicles** and, most importantly, **immersively adding new cars** to the game.  
 It focuses on **texture improvements, ModelExtras, VehFunc, and Soundize adaptations** — ensuring that every vehicle added to the game is fully consistent with its world and lore, without breaking immersion.
 
----
+<img width="2560" height="1440" alt="lear-cars" src="https://github.com/user-attachments/assets/e69fcce7-46c9-4525-b527-035935e2196e" />
 
 ### 🚗 Original Car Fixes & Immersive Added Cars
 
@@ -60,10 +60,6 @@ It focuses on **texture improvements, ModelExtras, VehFunc, and Soundize adaptat
 
 > 🔧 *LEAR-Cars is a part of the larger Law Enforcement Agencies Rework (LEAR) project — focused on realism, immersion, and lore-accurate worldbuilding for San Andreas.*
 
-
-
-
-<img width="2560" height="1440" alt="lear-cars" src="https://github.com/user-attachments/assets/e69fcce7-46c9-4525-b527-035935e2196e" />
 
 ## 🫂 First off all: 
 💬**JOIN OUR DISCORD SERVER: [Invitation](https://discord.com/)**

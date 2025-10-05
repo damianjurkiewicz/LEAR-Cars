@@ -3,7 +3,8 @@
 📦 **Modification for GTA San Andreas**, aimed at **fixing original vehicles** and, most importantly, **immersively adding new cars** to the game.  
 It focuses on **texture improvements, ModelExtras, VehFunc, and Soundize adaptations** — ensuring that every vehicle added to the game is fully consistent with its world and lore, without breaking immersion.
 
-<img width="2560" height="1440" alt="lear-cars" src="https://github.com/user-attachments/assets/e69fcce7-46c9-4525-b527-035935e2196e" />
+<img width="1971" height="1436" alt="lear" src="https://github.com/user-attachments/assets/7c116905-03b6-4464-a850-5e31baa05511" />
+
 
 ### 🚗 Original Car Fixes & Immersive Added Cars
 

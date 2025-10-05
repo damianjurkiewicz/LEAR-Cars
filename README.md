@@ -52,29 +52,17 @@ This helps us keep things organized and ensures faster fixes!
 
 On this [**Channel**](https://discord.com/channels/689515979847237649/1414177877515046934) you will get all the support needed to solve any compatibility issues. 
 
+## ✨ Key Features
 
-## 📁 Contents
-
-- Yosemite Pack - model fixes
-- Model Extras Adaptation
-- Soundize Adaptation
-- VehFunc Adaptation
-- Vehicle.txd - retexture
-- Vehicle3.txd - shared textures
-
-## 🔧 Requirements
-
-To ensure models function correctly in-game, the following mods are recommended:
-
-- VehFuncs
-- Model Extras
-- fastman92 limit adjuster
-- $fastloader.asi
-- Soundize (optional)
+- ✅ Yosemite Pack - model fixes
+- ✅ Model Extras Adaptation
+- ✅ Soundize Adaptation
+- ✅ VehFunc Adaptation
+- ✅ Vehicle.txd - retexture
+- ✅ Vehicle3.txd - shared textures
 
 
-## 📌 Features
+## 📦 Our mods are based on classic style car mods, but with dozens of hours of our work on top
 
-- Each model may come with different LOD levels depending on the version.
-- Files are free to use for private mods or public projects with proper credit.
+- 🔗 [Burbalade](https://gtaforums.com/topic/787629-burbalades-workshop/) - [Yosemite CCLB Dually](https://www.gtagarage.com/mods/show.php?id=27190)
 

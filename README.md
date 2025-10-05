@@ -1,4 +1,4 @@
-## LEAR-Cars - Model Extras, VehFunc, Soundize Car Adaptations for GTA San Andreas by Damix & Marchewa99XD
+## LEAR-Cars - BETA - Model Extras, VehFunc, Soundize Car Adaptations for GTA San Andreas by Damix & Marchewa99XD
 
 📦 **Modification for GTA San Andreas**, aimed at **fixing original vehicles** and, most importantly, **immersively adding new cars** to the game.  
 It focuses on **texture improvements, ModelExtras, VehFunc, and Soundize adaptations** — ensuring that every vehicle added to the game is fully consistent with its world and lore, without breaking immersion.

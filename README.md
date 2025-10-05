@@ -6,7 +6,7 @@ It focuses on **texture improvements, ModelExtras, VehFunc, and Soundize adaptat
 <img width="1971" height="1436" alt="lear" src="https://github.com/user-attachments/assets/7c116905-03b6-4464-a850-5e31baa05511" />
 
 
-### 🚗 Original Car Fixes & Immersive Added Cars
+### 🚗Fixed Stock Cars & Immersive Custom Cars
 
 - ✅ We add new vehicles **while also improving existing ones**, ensuring consistency and high quality across the game.  
 - **Stock Counterparts for Emergency Vehicles** — every added emergency car has its civilian (stock) version. 
@@ -32,7 +32,7 @@ It focuses on **texture improvements, ModelExtras, VehFunc, and Soundize adaptat
 ### ⚙️ ModelExtras Adaptations
 
 - **Semi-Official ModelExtras Pack** — unlocking the full potential of ModelExtras.  
-  We spent nearly a year collaborating with *Grinch*, testing solutions, proposing ideas, improving documentation, and designing the data file structure for easier installation.  
+  We spent nearly a year collaborating with *Grinch*, testing solutions, proposing ideas, creating documentation, and designing the data file structure for easier installation.  
 - **Functional Blinkers** — proper regional behavior: red for US vehicles, amber for EU/JDM cars.  
 - **Reverse Lights** — accurately placed and calibrated based on original photos and references.  
 - **Siren Rotators** — authentic corona effects and shadows, using a real mirror-rotation system — the first true-to-life implementation.  

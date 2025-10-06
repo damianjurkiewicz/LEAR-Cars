@@ -1,6 +1,7 @@
 ## LEAR Cars - BETA - Model Extras, VehFunc, Soundize Car Adaptations for GTA San Andreas by Damix & Marchewa99XD
 
-📦 **Part of Law Enforments Agencies Rework Mod**, aimed at **fixing original vehicles** and, most importantly, **immersively adding new cars** to the game.  
+📦 **Part of Law Enforments Agencies Rework Mod**, aimed at **fixing original vehicles** and, most importantly, **immersively adding new cars** and lore-accurate worldbuilding for San Andreas.
+
 It focuses on **texture improvements, ModelExtras, VehFunc, and Soundize adaptations** — ensuring that every vehicle added to the game is fully consistent with its world and lore, without breaking immersion.
 
 <img width="1971" height="1436" alt="lear" src="https://github.com/user-attachments/assets/7c116905-03b6-4464-a850-5e31baa05511" />
@@ -58,9 +59,6 @@ It focuses on **texture improvements, ModelExtras, VehFunc, and Soundize adaptat
   - `data/cargrp.dat` (traffic spawning handled automatically)  
 
 ---
-
-> 🔧 *LEAR-Cars is a part of the larger Law Enforcement Agencies Rework (LEAR) project — focused on realism, immersion, and lore-accurate worldbuilding for San Andreas.*
-
 
 ## 🫂 First off all: 
 💬**JOIN OUR DISCORD SERVER: [Invitation](https://discord.com/)**

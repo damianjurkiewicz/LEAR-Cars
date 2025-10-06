@@ -116,6 +116,8 @@ This helps us keep things organized and ensures faster fixes!
 
 *Without it:* Usage of FLA is simpler. Use default OLA settings, and unlock only necessary functions in FLA
 
+---
+
 **Optional:**  
 - [Soundize](https://www.mixmods.com.br/2025/10/soundize/) – AAA Sound system for GTA SA - use it to feel full potential of our cars
 
@@ -123,7 +125,8 @@ This helps us keep things organized and ensures faster fixes!
 
 --- 
 
-## 📦 Our mods are based on classic style car mods, but with dozens of hours of our work on top
+## 📦 Credits
+Our mods are based on classic style car mods, but with dozens of hours of our work on top.
 
 First Yosemite pack is based on:
 

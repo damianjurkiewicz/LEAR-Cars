@@ -85,9 +85,15 @@ This helps us keep things organized and ensures faster fixes!
 *Without it:* Don't even try.
 
 ---
+**Mandatory:**
+- [VehFunc](https://www.mixmods.com.br/2025/09/sa-vehfuncs/) - another necessary mod, new functions as wipers, vibrating parts, recursive extras
+
+*Without it:* Don't even try.
+
+---
 
 **Mandatory:**  
-- [fastman92 limit adjuster](https://libertycity.net/files/gta-san-andreas/223963-fastman92-limit-adjuster.html) –   
+- [fastman92 limit adjuster](https://libertycity.net/files/gta-san-andreas/223963-fastman92-limit-adjuster.html)   
 
 *Without it:* You won't be able to use added cars, so basically the core of this mod.  
 
@@ -101,16 +107,9 @@ This helps us keep things organized and ensures faster fixes!
 ---
 
 **Mandatory:**  
-- [VehFunc](https://www.mixmods.com.br/2024/03/sa-skygfx/) – Unleash full graphic potential with this mod
+- [SkyGfx](https://www.mixmods.com.br/2024/03/sa-skygfx/) – Unleash full graphic potential with this mod
 
 *Without it:* It's not the same. Use our recommended settings. 
-
----
-
-**Highly Recommended:**  
-- [SkyGfx](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases) – use with default settings  
-
-*Without it:* Usage of FLA is simpler. Use default OLA settings, and unlock only necessary functions in FLA
 
 ---
 
@@ -126,12 +125,9 @@ This helps us keep things organized and ensures faster fixes!
 
 --- 
 
-💬 **ONCE AGAIN JOIN OUR DISCORD SERVER: [Invitation](https://discord.com/)**
-
-On this [**Channel**](https://discord.com/) you will get all the support needed to solve any compatibility issues. 
-
-
 ## 📦 Our mods are based on classic style car mods, but with dozens of hours of our work on top
+
+First Yosemite pack is based on:
 
 - 🔗 [Burbalade](https://gtaforums.com/topic/787629-burbalades-workshop/) - [Yosemite CCLB Dually](https://www.gtagarage.com/mods/show.php?id=27190)
 

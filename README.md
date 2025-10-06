@@ -121,8 +121,6 @@ This helps us keep things organized and ensures faster fixes!
 
 *Without it:* Cars will only have default sounds.
 
---- 
-
 ## 📦 Credits
 Our mods are based on classic style car mods, but with dozens of hours of our work on top.
 
